@@ -1,0 +1,3 @@
+3.3 Next, scroll down to the Commit New File section. 
+Write a Commit Message (Example: Create SampleFile.txt) and
+click on the Commit New File button
